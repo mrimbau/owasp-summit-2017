@@ -2,10 +2,10 @@
 layout     : blocks/page-participant
 title      : Marc Rimbau
 type       : participant
-job-title  : ...
+job-title  : Senior Security Consultant
 image      :
-linkedin   :
-twiter     :
+linkedin   :https://www.linkedin.com/in/marc-rimbau-b9396a1/
+twiter     :https://twitter.com/mrimbau
 facebook   :
 funded-who : self
 status     : empty
